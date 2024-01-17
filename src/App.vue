@@ -1,5 +1,5 @@
 <script>
-  import ProjectIndex from './projects/Index.vue';
+  import ProjectIndex from './pages/projects/Index.vue';
   export default {
     components: {
       ProjectIndex,
